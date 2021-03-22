@@ -1,4 +1,7 @@
-welcome to the computer course
+welcome to the computer courses
 java
 dot net
+
+photoshop
+dtp
 
